@@ -15,7 +15,7 @@ const weaponsData = [
     { id: 105, folder: "fal", name: "FAL (TAP MODE)", price: "~150k", tier: "good", code: "Модификация оружия-3fv3nO2YZoU8EP4D4" },
     { id: 106, folder: "h416", name: "H416", price: "~360k", tier: "meta", code: "Модификация оружия-3fv3nO2YZoU8EP4j4" },
     { id: 107, folder: "mdr", name: "MDR (BURST MODE)", price: "~205k", tier: "meta", code: "Модификация оружия-3fv3nO2YZoU8EP424" },
-    { id: 108, folder: "ak102", name: "AK-102", price: "~130k", tier: "meta-season", code: "Модификация оружия-3fv3nO2YZoU8EP424" },
+    { id: 108, folder: "ak102", name: "AK-102", price: "~130k", tier: "meta-season", code: "Модификация оружия-3fv3nO2YZoU8EP494" },
     { id: 109, folder: "ak74h", name: "AK-74H", price: "~110k", tier: "good", code: "Модификация оружия-3fv3nO2YZoU8EP4X4" },
     { id: 110, folder: "aks74y", name: "AKC-74Y", price: "~100k", tier: "trash", code: "Модификация оружия-3fv3nO2YZoU8EP4i4" },
     { id: 111, folder: "aug", name: "AUG", price: "~225k", tier: "meta", code: "Модификация оружия-3fv3nO2YZoU8EP4w4" },
@@ -33,4 +33,5 @@ const weaponsData = [
     { id: 123, folder: "pcc9", name: "PCC-9", price: "~117k", tier: "meta-season", code: "Модификация оружия-3fv3nO2YZoU8EP434" },
     { id: 124, folder: "zc807", name: "ZC807", price: "~172k", tier: "meta", code: "Модификация оружия-3fv3nO2YZoU8EP4S4" },
     { id: 125, folder: "mini14", name: "MINI-14 (ONETAP MONSTER)", price: "~90k", tier: "meta-season", code: "Модификация оружия-3fv3nO2YZoU8EP4R4" },
+
 ];
