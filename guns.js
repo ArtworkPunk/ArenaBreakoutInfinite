@@ -26,12 +26,16 @@ const weaponsData = [
     { id: 116, folder: "scarl", name: "SCAR-L", price: "~160k", tier: "good", code: "Модификация оружия-3fv3nO2YZoU8EP4e4" },
     { id: 117, folder: "t951", name: "T951", price: "~140k", tier: "meta", code: "Модификация оружия-3fv3nO2YZoU8EP4G4" },
     { id: 118, folder: "toz", name: "TOZ", price: "~145k", tier: "good", code: "Модификация оружия-3fv3nO2YZoU8EP4r4" },
-    { id: 119, folder: "sg550", name: "SG550", price: "~145k", tier: "good", code: "Модификация оружия-3fv3nO2YZoU8EP4r4" },
+    { id: 119, folder: "sg550", name: "SG550", price: "~145k", tier: "good", code: "Модификация оружия-3fv3nO2YZoU8EP484" },
     { id: 120, folder: "g3", name: "G3", price: "~115k", tier: "good", code: "Модификация оружия-3fv3nO2YZoU8EP4W4" },
     { id: 121, folder: "ak12", name: "AK12", price: "~240k", tier: "meta-season", code: "Модификация оружия-3fv3nO2YZoU8EP4u4" },
     { id: 122, folder: "mcx", name: "MCX", price: "~175k", tier: "meta-season", code: "Модификация оружия-3fv3nO2YZoU8EP4d4" },
     { id: 123, folder: "pcc9", name: "PCC-9", price: "~117k", tier: "meta-season", code: "Модификация оружия-3fv3nO2YZoU8EP434" },
     { id: 124, folder: "zc807", name: "ZC807", price: "~172k", tier: "meta", code: "Модификация оружия-3fv3nO2YZoU8EP4S4" },
     { id: 125, folder: "mini14", name: "MINI-14 (ONETAP MONSTER)", price: "~90k", tier: "meta-season", code: "Модификация оружия-3fv3nO2YZoU8EP4R4" },
+    { id: 126, folder: "pp19", name: "PP19 (CLOSE RANGE)", price: "~150k", tier: "meta-season", code: "Модификация оружия-3fv3nO2YZoU8EP4n4" },
+    { id: 127, folder: "m16", name: "M16 (TAP MODE)", price: "~280k", tier: "meta-season", code: "Модификация оружия-3fv3nO2YZoU8EP4k4" },
+    { id: 127, folder: "m24", name: "M24 (100 METER SHOT)", price: "~150k", tier: "meta-season", code: "Модификация оружия-3fv3nO2YZoU8EP414" },
 
 ];
+
