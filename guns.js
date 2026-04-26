@@ -35,7 +35,8 @@ const weaponsData = [
     { id: 125, folder: "mini14", name: "MINI-14 (ONETAP MONSTER)", price: "~90k", tier: "meta-season", code: "Модификация оружия-3fv3nO2YZoU8EP4R4" },
     { id: 126, folder: "pp19", name: "PP19 (CLOSE RANGE)", price: "~150k", tier: "meta-season", code: "Модификация оружия-3fv3nO2YZoU8EP4n4" },
     { id: 127, folder: "m16", name: "M16 (TAP MODE)", price: "~280k", tier: "meta-season", code: "Модификация оружия-3fv3nO2YZoU8EP4k4" },
-    { id: 127, folder: "m24", name: "M24 (100 METER SHOT)", price: "~150k", tier: "meta-season", code: "Модификация оружия-3fv3nO2YZoU8EP414" },
+    { id: 128, folder: "m24", name: "M24 (100 METER SHOT)", price: "~150k", tier: "meta-season", code: "Модификация оружия-3fv3nO2YZoU8EP414" },
+    { id: 129, folder: "mp5", name: "MP5 (CLOSE RANGE)", price: "~106k", tier: "meta-season", code: "Модификация оружия-3fv3nO2YZoU8EP4g4" }
 
 ];
 
