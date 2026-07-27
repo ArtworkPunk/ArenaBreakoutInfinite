@@ -21,7 +21,7 @@ const weaponsData = [
     { id: 111, folder: "aug", name: "AUG", price: "~225k", tier: "meta", code: "Модификация оружия-3fv3nO2YZoU8EP4w4" },
     { id: 112, folder: "f2000", name: "F2000", price: "~215k", tier: "meta", code: "Модификация оружия-3fv3nO2YZoU8EP4E4" },
     { id: 113, folder: "ar57", name: "AR-57", price: "~250k", tier: "meta", code: "Модификация оружия-3fv3nO2YZoU8EP454" },
-    { id: 114, folder: "ace31", name: "ACE31", price: "~145k", tier: "meta-season", code: "Модификация оружия-3fv3nO2YZoU8EP4V4" },
+    { id: 114, folder: "ace31", name: "ACE31", price: "~145k", tier: "meta-season", code: "Модификация оружия-3fv3nO2YZoU8EP4PP" },
     { id: 115, folder: "aek", name: "AEK", price: "~250k", tier: "good", code: "Модификация оружия-3fv3nO2YZoU8EP4c4" },
     { id: 116, folder: "scarl", name: "SCAR-L", price: "~160k", tier: "good", code: "Модификация оружия-3fv3nO2YZoU8EP4e4" },
     { id: 117, folder: "t951", name: "T951", price: "~140k", tier: "meta", code: "Модификация оружия-3fv3nO2YZoU8EP4G4" },
